@@ -1,3 +1,3 @@
 # combinatorics
-A library for calculations related to combinatorics.\n
+A library for calculations related to combinatorics. 
 The main branch SUCKS.
