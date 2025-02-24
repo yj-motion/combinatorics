@@ -1,2 +1,2 @@
 # combinatorics
-A library for calculation related to combinatorics
+A library for calculations related to combinatorics
